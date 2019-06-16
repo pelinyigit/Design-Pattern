@@ -1,0 +1,4 @@
+//Adaptee
+public class CattleSignals {
+	
+}
